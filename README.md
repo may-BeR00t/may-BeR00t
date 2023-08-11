@@ -5,6 +5,7 @@ I’m Vadym. I'm an iOS developer with a passion for delivering amazing user exp
 - 🔭 I’m working on personal projects that will be posted here.
 - 📚 I’m always learning about the latest advancements on  platorms.
 - 📝 Swift / iOS Blog coming soon...
+- 📺 Swift / iOS Educational videos possibly coming soon...
 - ⚡️ Fun fact: I'm a cycling fanatic 🚴🏻
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
